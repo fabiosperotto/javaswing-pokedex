@@ -1,11 +1,11 @@
 # Projeto de Aprendizagem Java Swing - Protótipo de Glossário
 
-Este projeto visa a fornecer um exemplo de implementação de interfaces gráficas em Java com Swing. O exemplo se baseia em um glossário básico com a temática de Pokémons. Este projeto visa a ser utilizado como um dos vários exemplos ministrado para as disciplinas básicas de programação (Linguagem de Programação II, Laboratório de Programação II e III, etc.).
+A ideia principal desse projeto é servir como exemplo de implementação de interfaces gráficas em Java com Swing. Comoe xemplo, é criado um protótipo de um glossário envolvendo a temática de Pokémons. Este projeto é para fins didáticos de iniciação a programação e visa a ser utilizado como um dos vários exemplos ministrado em disciplinas básicas de programação (Linguagem de Programação II, Laboratório de Programação II e III, etc.) nos cursos Técnicos de Ensino Médio Integrado e Graduação.
 
 ![Imagem do sistema em execução](/src/main/resources/img/sistema.png "Sistema em execução")
 
 
-## Funcionalidades
+## Funcionalidades, Recursos e Exemplos
 - Interações entre JFrames;
 - Interações básicas com tabela de dados via JTable (listagem, inserção e remoção);
 - Exemplos de uso das janelas de diálogo (JOptionPane);
