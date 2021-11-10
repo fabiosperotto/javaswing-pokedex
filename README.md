@@ -2,7 +2,7 @@
 
 Este projeto visa a fornecer um exemplo de implementação de interfaces gráficas em Java com Swing. O exemplo se baseia em um glossário básico com a temática de Pokémons. Este projeto visa a ser utilizado como um dos vários exemplos ministrado para as disciplinas básicas de programação (Linguagem de Programação II, Laboratório de Programação II e III, etc.).
 
-![Imagem do sistema em execução](main/src/main/resources/img/sistema.png "Sistema em execução")
+![Imagem do sistema em execução](/src/main/resources/img/sistema.png "Sistema em execução")
 
 
 ## Funcionalidades
